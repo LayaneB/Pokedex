@@ -68,5 +68,5 @@ A ideia é usar a Poke Api como fonte de dados para o projeto. Ela é uma API p�
    
 ## 👨‍💻 Desenvolvedores:
    
-| [<img src="https://avatars.githubusercontent.com/u/50851374?v=4" width=115><br><sub>Layane Bastos Juvito</sub>](https://github.com/lauraamancio) | [<img src="https://avatars.githubusercontent.com/u/99182969?v=4" width=115><br><sub>Lis Fernanda Ribeiro dos Santos</sub>](https://github.com/lisfribeiro) | [<img src="https://avatars.githubusercontent.com/u/98998030?v=4" width=115><br><sub>Matheus Martinelle Barros</sub>](https://github.com/MatthsMB) |
+| [<img src="https://avatars.githubusercontent.com/u/50851374?v=4" width=115><br><sub>Layane Bastos Juvito</sub>](https://www.linkedin.com/in/layanebastos/) | [<img src="https://avatars.githubusercontent.com/u/99182969?v=4" width=115><br><sub>Lis Fernanda Ribeiro dos Santos</sub>](https://github.com/lisfribeiro) | [<img src="https://avatars.githubusercontent.com/u/98998030?v=4" width=115><br><sub>Matheus Martinelle Barros</sub>](https://github.com/MatthsMB) |
 | :---: | :---: | :---: |
